@@ -44,8 +44,8 @@ function Projects() {
                     tech="HTML, CSS, JavaScript, React e Vite"
                     description="Projeto de um portfólio feito em React e Vite utilizando os Hooks: useState e useEffect para melhorar as estética do site."
                     img={projectportfolio}
-                    site=""
-                    repo=""
+                    site="https://portfolioalexandreamaro.netlify.app"
+                    repo="https://github.com/Alexandre-Amar0/project-portfolio-react-vite"
                 >
                 </Card>
             </section>
