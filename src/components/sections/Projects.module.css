@@ -1,0 +1,15 @@
+.projects {
+    font-family: 'Poppins';
+    color: white;
+    margin-left: 10%;
+    margin-top: 100px;
+}
+
+.projects h1 {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.section {
+    display: flex;
+}

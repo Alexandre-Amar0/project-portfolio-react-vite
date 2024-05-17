@@ -1,0 +1,19 @@
+.presentation {
+    font-family: 'Poppins';
+    text-align: left;
+    margin-left: 10%;
+    color: white;
+}
+
+.presentation h1 {
+    font-size: 40px;
+}
+
+.presentation p {
+    margin-left: 5px;
+    max-width: 500px;
+}
+
+.presentation Button {
+    margin: 15px 5px;
+}

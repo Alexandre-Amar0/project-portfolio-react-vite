@@ -1,0 +1,32 @@
+.navbar {
+    font-family: 'Poppins';
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-left: 30%;
+    margin-bottom: 70px;
+}
+
+.navbar section {
+    margin-right: 5%;
+}
+
+.navbar section li {
+    margin-left: 20px !important;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    padding: 0px;
+}
+
+.navbar li {
+    margin-left: 50px;
+}
+
+.navbar a {
+    color: white !important;
+    text-decoration: none;
+}
